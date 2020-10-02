@@ -1,0 +1,115 @@
+
+body
+{
+    margin: 0 0;
+    padding:0 0 ;
+    /* background-color: palegreen; */
+    background: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EAECC6, #2BC0E4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+#h112
+{
+    /* font-family: 'Lobster', cursive; */
+    text-shadow: 2px 2px gray ;
+    /* font-size: xx-large; */
+    /* font-family: 'Lobster', cursive; */
+    font-family: 'Russo One', sans-serif;
+}       
+
+/* .first{
+    list-style: none;
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    padding: 0px 10px;
+    padding-top: 25px;
+    border: 2px solid violet;
+} */
+.second{
+    /* padding-left: 100px; */
+    list-style: none;
+    background-color: rgb(109, 107, 105);
+    color: white;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    /* padding: 0px 10px; */
+    /* padding-top: 25px; */
+    border: 2px solid rgb(0, 0, 0);
+    /* font-weight: 500;
+    font-size: x-large;
+    font-family: 'Kufam', cursive; */
+}
+/* dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0rem;
+} */
+ul
+{
+    margin: -2px;
+}
+#stripe
+{
+    /* border-top: white 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    height: 50px;                 */
+    padding-top: 2px;
+    font-family: 'Kufam', cursive;
+}
+#striper
+{
+    /* border-top: white 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: white;
+    height: 50px;                 */
+    padding-top: 2px;
+    /* font-family: 'Kufam', cursive; */
+    /* font-family: 'Lobster', cursive; */
+    font-family: 'Lobster', cursive;
+}
+
+.min_w
+{
+    background-color: black;
+    width: 0px;
+    margin: 1px 1px;
+    padding: 1px 1px;
+}
+/* .third{
+    list-style: none;
+    background-color: chartreuse;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    padding: 0px 10px;
+    padding-top: 25px;
+    border: 2px solid violet;
+} */
+ul{
+    width: 1000px;
+    display: flex;
+    margin: auto;
+    padding-left: 267px;
+}
+.one{
+    list-style: none;
+}
+.complete
+{
+   display: none;
+}
+li
+{
+    padding: 47px 1px;
+    font-size: x-large;
+    font-weight: 1000;
+    font-family: 'Fredoka One', cursive;
+}
