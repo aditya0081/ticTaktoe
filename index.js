@@ -91,6 +91,7 @@ $("#new_game").click(function () {
 });
 
 $("#single").click(function(){
+     player1 = 0, player2 = 0;
     dual_player=false;
     single_player=true;
     reset();
@@ -98,6 +99,7 @@ $("#single").click(function(){
 });
 
 $("#dual").click(function(){
+     player1 = 0, player2 = 0;
     dual_player=true;
     single_player=false;
     reset();
